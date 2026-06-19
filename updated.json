@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "2.0.0",
-      "URL": "https://github.com/jnanavi-mk/OTA-PULL/blob/main/Pull.c.ino.bin"
+      "URL": "https://github.com/jnanavi-mk/OTA-PULL/blob/main/ESP32_pull_ota.ino.bin"
     }
   ]
 }
