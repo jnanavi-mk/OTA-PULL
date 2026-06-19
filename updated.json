@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "2.0.0",
-      "URL": "https://example.com/myimages/example.esp32_dev.v2.bin"
+      "URL": "https://github.com/jnanavi-mk/OTA-PULL/blob/main/Pull.c.ino.bin"
     }
   ]
 }
